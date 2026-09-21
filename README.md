@@ -97,6 +97,12 @@ les active codex
 
 `JavaScript` · `Node.js` · `React` · `Next.js` · `ElectronJS` · `CLI tooling` · `Markdown` · `AI workflows`
 
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,electron,html,css,git,github,md" alt="JavaScript, TypeScript, React, Next.js, Node.js, Electron, HTML, CSS, Git, GitHub and Markdown" />
+</p>
+
 ## Earlier experiments
 
 LES is the one active product I am building now. The rest of my public profile

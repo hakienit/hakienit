@@ -1,27 +1,27 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1000" height="240" viewBox="0 0 1000 240" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">LES — human-directed AI delivery</title>
   <desc id="desc">A dark technical banner with a gold LES mark and a small systems diagram.</desc>
-  <rect width="1200" height="300" fill="#020617"/>
-  <path d="M0 244H1200" stroke="#263247"/>
-  <path d="M0 72H1200" stroke="#263247"/>
-  <path d="M718 0V300M918 0V300" stroke="#17243A"/>
-  <rect x="72" y="64" width="116" height="116" fill="#F4BF4F"/>
-  <path d="M101 91V153H155" stroke="#1D1606" stroke-width="10" stroke-linecap="square"/>
-  <path d="M135 91V153" stroke="#1D1606" stroke-width="10" stroke-linecap="square"/>
-  <text x="232" y="107" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">LIVING ENGINEERING SYSTEM</text>
-  <text x="235" y="151" fill="#9AA6B8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1">HUMAN-DIRECTED AI DELIVERY</text>
-  <text x="76" y="274" fill="#64748B" font-family="monospace" font-size="14">POLICIES / SKILLS / PROFILES / ADAPTERS</text>
-  <g font-family="monospace" font-size="15">
-    <rect x="780" y="84" width="130" height="42" fill="#0E1627" stroke="#334155"/>
-    <text x="807" y="110" fill="#F4BF4F">policies</text>
-    <rect x="980" y="84" width="130" height="42" fill="#0E1627" stroke="#334155"/>
-    <text x="1015" y="110" fill="#F4BF4F">skills</text>
-    <rect x="780" y="162" width="130" height="42" fill="#0E1627" stroke="#334155"/>
-    <text x="812" y="188" fill="#F4BF4F">profiles</text>
-    <rect x="980" y="162" width="130" height="42" fill="#0E1627" stroke="#334155"/>
-    <text x="1003" y="188" fill="#F4BF4F">adapters</text>
-    <path d="M910 105H980M910 183H980M845 126V162M1045 126V162" stroke="#64748B" stroke-width="2"/>
-    <circle cx="945" cy="105" r="4" fill="#F4BF4F"/>
-    <circle cx="945" cy="183" r="4" fill="#F4BF4F"/>
+  <rect width="1000" height="240" fill="#020617"/>
+  <path d="M0 198H1000M0 54H1000" stroke="#263247"/>
+  <path d="M650 0V240M820 0V240" stroke="#17243A"/>
+  <rect x="40" y="48" width="92" height="92" fill="#F4BF4F"/>
+  <path d="M63 70V118H105" stroke="#1D1606" stroke-width="8" stroke-linecap="square"/>
+  <path d="M88 70V118" stroke="#1D1606" stroke-width="8" stroke-linecap="square"/>
+  <text x="160" y="82" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" textLength="432" lengthAdjust="spacingAndGlyphs">LIVING ENGINEERING SYSTEM</text>
+  <text x="160" y="116" fill="#9AA6B8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1" textLength="300" lengthAdjust="spacingAndGlyphs">HUMAN-DIRECTED AI DELIVERY</text>
+  <text x="42" y="224" fill="#64748B" font-family="monospace" font-size="12">POLICIES / SKILLS / PROFILES / ADAPTERS</text>
+  <text x="42" y="28" fill="#F4BF4F" font-family="monospace" font-size="11">01 / OPEN SOURCE SYSTEM</text>
+  <g font-family="monospace" font-size="13">
+    <rect x="688" y="46" width="112" height="36" fill="#0E1627" stroke="#334155"/>
+    <text x="710" y="69" fill="#F4BF4F">policies</text>
+    <rect x="856" y="46" width="112" height="36" fill="#0E1627" stroke="#334155"/>
+    <text x="884" y="69" fill="#F4BF4F">skills</text>
+    <rect x="688" y="122" width="112" height="36" fill="#0E1627" stroke="#334155"/>
+    <text x="716" y="145" fill="#F4BF4F">profiles</text>
+    <rect x="856" y="122" width="112" height="36" fill="#0E1627" stroke="#334155"/>
+    <text x="877" y="145" fill="#F4BF4F">adapters</text>
+    <path d="M800 64H856M800 140H856M744 82V122M912 82V122" stroke="#64748B" stroke-width="2"/>
+    <circle cx="828" cy="64" r="4" fill="#F4BF4F"/>
+    <circle cx="828" cy="140" r="4" fill="#F4BF4F"/>
   </g>
 </svg>
