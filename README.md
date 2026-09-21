@@ -8,13 +8,16 @@
   <a href="https://www.linkedin.com/in/ikeha/">LinkedIn</a>
 </p>
 
-# Ike Ha
+# Kien Ha · Ike Ha
 
-### Web developer building practical tools for human-directed AI delivery.
+### Software engineer building practical products with modern JavaScript.
 
-I make software easier to understand, operate, and review. My current focus is
+I work across frontend and backend, with a focus on React, Next.js, ElectronJS,
+and Node.js. I make software easier to understand, operate, and review. My current focus is
 [LES](https://github.com/hakienit/les), a provider-neutral engineering
 methodology for delivering software with AI.
+
+Based in Da Nang, Vietnam.
 
 ## At a glance
 
@@ -25,6 +28,23 @@ methodology for delivering software with AI.
 | Interface | CLI + Markdown |
 | License | MIT |
 | Package | [`@hakienit/les`](https://www.npmjs.com/package/@hakienit/les) |
+
+## Professional snapshot
+
+Software engineer with experience building user-facing products and full-stack
+JavaScript applications. I care about interfaces that feel clear, systems that
+are practical to operate, and tools that help people do better work.
+
+### Experience
+
+| Role | Organization | Period |
+| --- | --- | --- |
+| Frontend Developer | Vinova Pte. Ltd. | Mar 2022 - Present |
+| Software Frontend Engineer | Freelance | May 2020 - Present |
+
+**Top skills:** Generative AI · Full-stack development · Front-end development
+
+**[View my LinkedIn profile](https://www.linkedin.com/in/ikeha/)**
 
 ## The flagship project
 
@@ -75,7 +95,7 @@ les active codex
 
 ## Tools I reach for
 
-`JavaScript` · `Node.js` · `React` · `CLI tooling` · `Markdown` · `AI workflows`
+`JavaScript` · `Node.js` · `React` · `Next.js` · `ElectronJS` · `CLI tooling` · `Markdown` · `AI workflows`
 
 ## Earlier experiments
 
