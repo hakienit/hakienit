@@ -1,30 +1,70 @@
+<p align="center">
+  <img src="./les-banner.svg" alt="LES — human-directed AI delivery" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/hakienit/les">Source</a> ·
+  <a href="https://www.npmjs.com/package/@hakienit/les">npm package</a> ·
+  <a href="https://www.linkedin.com/in/ikeha/">LinkedIn</a>
+</p>
+
 # Ike Ha
 
 ### Web developer building practical tools for human-directed AI delivery.
 
-I build software that makes engineering work easier to understand, operate, and review.
-Right now, I am focused on [LES](https://github.com/hakienit/les): a provider-neutral
-engineering methodology for delivering software with AI.
+I make software easier to understand, operate, and review. My current focus is
+[LES](https://github.com/hakienit/les), a provider-neutral engineering
+methodology for delivering software with AI.
 
-## Current project
+## At a glance
 
-### [LES — Living Engineering System](https://github.com/hakienit/les)
+| | |
+| --- | --- |
+| Current focus | [LES — Living Engineering System](https://github.com/hakienit/les) |
+| Runtime | Node.js 20+ |
+| Interface | CLI + Markdown |
+| License | MIT |
+| Package | [`@hakienit/les`](https://www.npmjs.com/package/@hakienit/les) |
 
-LES gives AI-assisted projects a shared operating system:
+## The flagship project
 
-- policies own behavior;
-- skills expose repeatable operations;
-- profiles add optional domain rules;
-- adapters route the same workflow across AI hosts.
+### LES gives AI-assisted projects a shared operating system.
 
-Install it once and use it across repositories:
+AI tools become easier to trust when a project has one visible place for its
+rules and operating model. LES keeps the pieces small and explicit:
+
+| Layer | Job |
+| --- | --- |
+| **Policies** | Own the behavior and precedence. |
+| **Skills** | Expose repeatable operations. |
+| **Profiles** | Add optional domain rules. |
+| **Adapters** | Route the same workflow across AI hosts. |
+
+```mermaid
+flowchart LR
+  H[Human direction] --> P[Policies]
+  P --> S[Skills]
+  P --> R[Profiles]
+  S --> A[Adapters]
+  R --> A
+  A --> D[Project delivery]
+```
+
+### Install once. Use across repositories.
 
 ```sh
 npx -y @hakienit/les
+
+cd my-project
+les init
+les active codex
 ```
 
-**[Read the source](https://github.com/hakienit/les)** ·
-**[View the npm package](https://www.npmjs.com/package/@hakienit/les)**
+<p>
+  <a href="https://github.com/hakienit/les#readme">Read the documentation</a> ·
+  <a href="https://github.com/hakienit/les/releases">See releases</a> ·
+  <a href="https://github.com/hakienit/les/issues">Open an issue</a>
+</p>
 
 ## What I care about
 
@@ -33,14 +73,19 @@ npx -y @hakienit/les
 - Small tools that are easy to adopt and maintain
 - Documentation that explains the reason, not only the command
 
-## Tools
+## Tools I reach for
 
 `JavaScript` · `Node.js` · `React` · `CLI tooling` · `Markdown` · `AI workflows`
 
-## Elsewhere
+## Earlier experiments
 
-- [GitHub](https://github.com/hakienit)
-- [LES repository](https://github.com/hakienit/les)
+LES is the one active product I am building now. The rest of my public profile
+is an archive of earlier work and experiments:
 
-> This profile is intentionally centered on one active product. More work will be
-> added when it is ready to represent, not just to make the grid look busy.
+- [datamaps](https://github.com/hakienit/datamaps) — SVG map visualizations for the web
+- [React18-codebase](https://github.com/hakienit/React18-codebase) — React and TypeScript work
+- [texturegen](https://github.com/hakienit/texturegen) — a small JavaScript experiment
+
+<p align="center">
+  <sub>More work will be added when it is ready to represent, not just to make the grid look busy.</sub>
+</p>

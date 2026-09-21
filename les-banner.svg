@@ -1,0 +1,27 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LES — human-directed AI delivery</title>
+  <desc id="desc">A dark technical banner with a gold LES mark and a small systems diagram.</desc>
+  <rect width="1200" height="300" fill="#020617"/>
+  <path d="M0 244H1200" stroke="#263247"/>
+  <path d="M0 72H1200" stroke="#263247"/>
+  <path d="M718 0V300M918 0V300" stroke="#17243A"/>
+  <rect x="72" y="64" width="116" height="116" fill="#F4BF4F"/>
+  <path d="M101 91V153H155" stroke="#1D1606" stroke-width="10" stroke-linecap="square"/>
+  <path d="M135 91V153" stroke="#1D1606" stroke-width="10" stroke-linecap="square"/>
+  <text x="232" y="107" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">LIVING ENGINEERING SYSTEM</text>
+  <text x="235" y="151" fill="#9AA6B8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1">HUMAN-DIRECTED AI DELIVERY</text>
+  <text x="76" y="274" fill="#64748B" font-family="monospace" font-size="14">POLICIES / SKILLS / PROFILES / ADAPTERS</text>
+  <g font-family="monospace" font-size="15">
+    <rect x="780" y="84" width="130" height="42" fill="#0E1627" stroke="#334155"/>
+    <text x="807" y="110" fill="#F4BF4F">policies</text>
+    <rect x="980" y="84" width="130" height="42" fill="#0E1627" stroke="#334155"/>
+    <text x="1015" y="110" fill="#F4BF4F">skills</text>
+    <rect x="780" y="162" width="130" height="42" fill="#0E1627" stroke="#334155"/>
+    <text x="812" y="188" fill="#F4BF4F">profiles</text>
+    <rect x="980" y="162" width="130" height="42" fill="#0E1627" stroke="#334155"/>
+    <text x="1003" y="188" fill="#F4BF4F">adapters</text>
+    <path d="M910 105H980M910 183H980M845 126V162M1045 126V162" stroke="#64748B" stroke-width="2"/>
+    <circle cx="945" cy="105" r="4" fill="#F4BF4F"/>
+    <circle cx="945" cy="183" r="4" fill="#F4BF4F"/>
+  </g>
+</svg>
