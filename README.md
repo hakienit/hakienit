@@ -64,13 +64,17 @@ rules and operating model. LES keeps the pieces small and explicit:
 | **Adapters** | Route the same workflow across AI hosts. |
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"background": "#020617", "primaryColor": "#0E1627", "primaryTextColor": "#F8FAFC", "primaryBorderColor": "#F4BF4F", "lineColor": "#F4BF4F", "secondaryColor": "#111D31", "tertiaryColor": "#0E1627", "fontFamily": "ui-monospace"}}}%%
 flowchart LR
-  H[Human direction] --> P[Policies]
+  H[Human] --> P[Policies]
   P --> S[Skills]
   P --> R[Profiles]
   S --> A[Adapters]
   R --> A
-  A --> D[Project delivery]
+  A --> D[Delivery]
+  classDef core fill:#0E1627,stroke:#F4BF4F,color:#F8FAFC,stroke-width:1px
+  class H,P,S,R,A,D core
+  linkStyle default stroke:#F4BF4F,stroke-width:2px
 ```
 
 <details>
