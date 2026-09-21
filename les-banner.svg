@@ -4,11 +4,12 @@
   <rect width="1000" height="240" fill="#020617"/>
   <path d="M0 198H1000M0 54H1000" stroke="#263247"/>
   <path d="M650 0V240M820 0V240" stroke="#17243A"/>
-  <rect x="40" y="48" width="92" height="92" fill="#F4BF4F"/>
-  <path d="M63 70V118H105" stroke="#1D1606" stroke-width="8" stroke-linecap="square"/>
-  <path d="M88 70V118" stroke="#1D1606" stroke-width="8" stroke-linecap="square"/>
-  <text x="160" y="82" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" textLength="432" lengthAdjust="spacingAndGlyphs">LIVING ENGINEERING SYSTEM</text>
-  <text x="160" y="116" fill="#9AA6B8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1" textLength="300" lengthAdjust="spacingAndGlyphs">HUMAN-DIRECTED AI DELIVERY</text>
+  <text x="42" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="2">LES</text>
+  <path d="M44 140H218" stroke="#F4BF4F" stroke-width="4"/>
+  <circle cx="44" cy="140" r="6" fill="#F4BF4F"/>
+  <circle cx="218" cy="140" r="6" fill="#F4BF4F"/>
+  <text x="250" y="82" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" textLength="430" lengthAdjust="spacingAndGlyphs">LIVING ENGINEERING SYSTEM</text>
+  <text x="250" y="116" fill="#9AA6B8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1" textLength="300" lengthAdjust="spacingAndGlyphs">HUMAN-DIRECTED AI DELIVERY</text>
   <text x="42" y="224" fill="#64748B" font-family="monospace" font-size="12">POLICIES / SKILLS / PROFILES / ADAPTERS</text>
   <text x="42" y="28" fill="#F4BF4F" font-family="monospace" font-size="11">01 / OPEN SOURCE SYSTEM</text>
   <g font-family="monospace" font-size="13">
