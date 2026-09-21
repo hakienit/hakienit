@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./les-banner.svg" alt="LES — human-directed AI delivery" width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./les-banner.svg">
+    <img src="./les-banner.gif" alt="LES — human-directed AI delivery" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -70,15 +73,17 @@ flowchart LR
   A --> D[Project delivery]
 ```
 
-### Install once. Use across repositories.
+<details>
+  <summary><strong>Install once. Use across repositories.</strong></summary>
 
-```sh
-npx -y @hakienit/les
+  ```sh
+  npx -y @hakienit/les
 
-cd my-project
-les init
-les active codex
-```
+  cd my-project
+  les init
+  les active codex
+  ```
+</details>
 
 <p>
   <a href="https://github.com/hakienit/les#readme">Read the documentation</a> ·
