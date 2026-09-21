@@ -102,16 +102,3 @@ les active codex
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,electron,html,css,git,github,md" alt="JavaScript, TypeScript, React, Next.js, Node.js, Electron, HTML, CSS, Git, GitHub and Markdown" />
 </p>
-
-## Earlier experiments
-
-LES is the one active product I am building now. The rest of my public profile
-is an archive of earlier work and experiments:
-
-- [datamaps](https://github.com/hakienit/datamaps) — SVG map visualizations for the web
-- [React18-codebase](https://github.com/hakienit/React18-codebase) — React and TypeScript work
-- [texturegen](https://github.com/hakienit/texturegen) — a small JavaScript experiment
-
-<p align="center">
-  <sub>More work will be added when it is ready to represent, not just to make the grid look busy.</sub>
-</p>
